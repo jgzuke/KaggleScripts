@@ -4,3 +4,13 @@
 *.sqlite
 
 *.txt
+
+*.dbf
+
+*.prj
+
+*.shp
+
+*.xml
+
+*.shx
